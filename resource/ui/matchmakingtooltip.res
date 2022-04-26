@@ -1,2 +1,2 @@
-"#base" "../../#customizations/streamermode/matchmakingtooltip.res"
+"#base" "../../customizations/streamermode/matchmakingtooltip.res"
 "#base" "matchmakingtooltip-base.res"

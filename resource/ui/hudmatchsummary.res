@@ -1,2 +1,2 @@
-"#base" "../../#customizations/streamermode/hudmatchsummary.res"
+"#base" "../../customizations/streamermode/hudmatchsummary.res"
 "#base" "hudmatchsummary-base.res"

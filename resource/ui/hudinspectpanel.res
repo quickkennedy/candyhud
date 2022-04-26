@@ -1,2 +1,2 @@
-"#base" "../../#customizations/streamermode/hudinspectpanel.res"
+"#base" "../../customizations/streamermode/hudinspectpanel.res"
 "#base" "hudinspectpanel-base.res"

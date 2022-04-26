@@ -20,3 +20,4 @@ updates gamebanana is behind on
 - removed killer team bg
 - removed unused files
 - moved about customizations
+- renamed customizations

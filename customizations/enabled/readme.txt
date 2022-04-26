@@ -1,4 +1,4 @@
-To enable customizations, copy the files from the #customizations folders into the enabled folder.
+To enable customizations, copy the files from the disabled folder into the enabled folder.
 
 Here are the available customization options:
 

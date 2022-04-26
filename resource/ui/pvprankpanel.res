@@ -1,2 +1,2 @@
-"#base" "../../#customizations/streamermode/pvprankpanel.res"
+"#base" "../../customizations/streamermode/pvprankpanel.res"
 "#base" "pvprankpanel-base.res"

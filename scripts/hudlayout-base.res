@@ -475,7 +475,7 @@
 		"IconColor"				"HudWhite"
 		"LocalPlayerColor"		"65 65 65 255"
 		"BaseBackgroundColor"	"TransparentBlack"
-		"LocalBackgroundColor"	"Offwhite"
+		"LocalBackgroundColor"	"245 229 196 200"
 	}
 
 	"HudVehicle"

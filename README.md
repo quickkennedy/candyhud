@@ -17,3 +17,4 @@ updates gamebanana is behind on
 - hypnotize payload
 - updated ctf stuff
 - fixed player health shadow
+- removed killer team bg

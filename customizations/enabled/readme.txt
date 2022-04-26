@@ -3,8 +3,9 @@ To enable customizations, copy the files from the disabled folder into the enabl
 Here are the available customization options:
 
 
-* hudplayerhealth-broesel.res - Enables the broesel health cross. Do not use conjunction with hudplayerhealth-cross.res
-* hudplayerhealth-cross.res - Enables a cross next to the health value. Do not use conjunction with hudplayerhealth-broesel.res
+* hudplayerhealth-broesel.res - Enables the broesel health cross. Do not use conjunction with other hudplayerhealth files
+* hudplayerhealth-prism.res - Enables the prism hud health cross. Do not use conjunction with other hudplayerhealth files
+* hudplayerhealth-cross.res - Enables a cross next to the health value. Do not use conjunction with other hudplayerhealth files
 
 experimental ones:
 

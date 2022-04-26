@@ -46,7 +46,7 @@
 		"font"					"HudFontSmall"
 		"labelText"				"%text%"
 		"textAlignment"			"center"
-		"xpos"					"40"
+		"xpos"					"87"
 		"ypos"					"50"
 		"zpos"					"1"
 		"wide"					"244"

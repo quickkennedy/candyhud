@@ -14,5 +14,5 @@ a:<br>
 
 updates gamebanana is behind on
 - fixed centering for killstreak
-- simple payload meters
+- hypnotize payload
 - updated ctf stuff

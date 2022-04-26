@@ -16,3 +16,4 @@ updates gamebanana is behind on
 - fixed centering for killstreak
 - hypnotize payload
 - updated ctf stuff
+- fixed player health shadow

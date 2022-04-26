@@ -13,13 +13,4 @@ a:<br>
 - rayshud - used as a base
 
 updates gamebanana is behind on<br>
-- fixed centering for killstreak<br>
-- hypnotize payload<br>
-- updated ctf stuff<br>
-- fixed player health shadow<br>
-- removed killer team bg<br>
-- removed unused files<br>
-- moved about customizations<br>
-- renamed customizations<br>
-- white pipes counter<br>
-- moved crosshair file
+all caught up (:

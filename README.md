@@ -12,14 +12,14 @@ a:<br>
 - budhud - multiple elements<br>
 - rayshud - used as a base
 
-updates gamebanana is behind on
-- fixed centering for killstreak
-- hypnotize payload
-- updated ctf stuff
-- fixed player health shadow
-- removed killer team bg
-- removed unused files
-- moved about customizations
-- renamed customizations
-- white pipes counter
+updates gamebanana is behind on<br>
+- fixed centering for killstreak<br>
+- hypnotize payload<br>
+- updated ctf stuff<br>
+- fixed player health shadow<br>
+- removed killer team bg<br>
+- removed unused files<br>
+- moved about customizations<br>
+- renamed customizations<br>
+- white pipes counter<br>
 - moved crosshair file

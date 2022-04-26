@@ -1,5 +1,6 @@
 #base	"..\customizations\streamermode\scripts\hudlayout.res"
 #base	"..\customizations\enabled\transparent viewmodels.res"
+#base 	"..\customizations\crosshair.res"
 
 "Resource/HudLayout.res"
 {
@@ -12,9 +13,7 @@
 	//--------------------------------------------------------------
 	"CustomCrosshair"
 	{
-		"visible"			"0"
-		"enabled"			"0"
-		"labelText"			"<"
+		"enabled"			"1"
 		"controlName"		"CExLabel"
 		"fieldName"			"CustomCrosshair"
 		"zpos"				"0"
@@ -22,7 +21,6 @@
 		"ypos"				"cs-0.5"
 		"wide"				"f0"
 		"tall"				"f0"
-		"font"				"Size:18 | Outline:OFF"
 		"textAlignment"		"center"
 		"fgcolor"			"Crosshair"
 	}

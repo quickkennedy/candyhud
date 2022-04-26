@@ -18,3 +18,4 @@ updates gamebanana is behind on
 - updated ctf stuff
 - fixed player health shadow
 - removed killer team bg
+- removed unused files

@@ -69,6 +69,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"Cerbetica24"
+			"fgcolor"			"white"
 		}
 		"NumPipesLabelDropshadow"
 		{

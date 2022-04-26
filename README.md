@@ -21,3 +21,4 @@ updates gamebanana is behind on
 - removed unused files
 - moved about customizations
 - renamed customizations
+- white pipes counter

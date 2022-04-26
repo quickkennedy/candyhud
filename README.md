@@ -19,3 +19,4 @@ updates gamebanana is behind on
 - fixed player health shadow
 - removed killer team bg
 - removed unused files
+- moved about customizations

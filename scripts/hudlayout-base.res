@@ -1,5 +1,5 @@
-#base	"..\#customizations\_streamermode\scripts\hudlayout.res"
-#base	"..\#customizations\_enabled\transparent viewmodels.res"
+#base	"..\#customizations\streamermode\scripts\hudlayout.res"
+#base	"..\#customizations\enabled\transparent viewmodels.res"
 
 "Resource/HudLayout.res"
 {

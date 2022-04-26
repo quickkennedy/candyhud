@@ -1,2 +1,2 @@
-"#base" "../../#customizations/_enabled/teammenu-center.res"
+"#base" "../../#customizations/enabled/teammenu-center.res"
 "#base" "teammenu-base.res"

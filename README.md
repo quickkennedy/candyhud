@@ -22,3 +22,4 @@ updates gamebanana is behind on
 - moved about customizations
 - renamed customizations
 - white pipes counter
+- moved crosshair file

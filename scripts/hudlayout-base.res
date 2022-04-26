@@ -468,7 +468,7 @@
 		"CornerRadius"			"2"
 		"RightJustify"			"1"
 		"TextFont"				"HudFontSmallest"
-		"TeamBlue"				"RedSolid"
+		"TeamBlue"				"BlueSolid"
 		"TeamRed"				"RedSolid"
 		"IconColor"				"HudWhite"
 		"LocalPlayerColor"		"65 65 65 255"
